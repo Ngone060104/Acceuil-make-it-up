@@ -1,0 +1,581 @@
+.navbar{
+    border: 1px solid whitesmoke;
+    height: 100px;
+    background-color: white;
+     display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+ .logo img{
+    width: 120px;
+    height: 100px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin-right: 30px;
+}
+
+a{ 
+    text-decoration: none;
+     color: #F19200;
+}
+.icone1 i {
+    color: #F19200;
+}
+#icone1{
+    color: #F19200;
+}
+
+.titre1{
+    position: absolute;
+    text-transform: (-50%);
+    left: 03%;
+    text-decoration: underline;
+   
+
+}
+.text2{
+    position: absolute;
+    text-transform: (-50%);
+    top: 30%; 
+    font-size: 20px;
+     left: 03%;
+}
+#calendrier{
+     position: absolute;
+    text-transform: (-50%);
+    top: 46%; 
+     left: 03%;
+}
+.titre2{
+    position: absolute;
+    text-transform: (-50%);
+    left: 05%;
+    top: 42%;
+    text-decoration: underline;
+   
+
+}
+.atelier{
+    position: absolute;
+    text-transform: (-50%);
+    left: 05%;
+    top: 55%;
+    width: 900px;
+    height: 200px;
+    padding: 10px;
+    background-color: black;
+}
+.titre3{
+    position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    color: white;
+    
+   
+}
+#cerveau{
+    position: absolute;
+    text-transform: (-50%);
+    left: 05%;
+    top: 16%;
+    color: palevioletred;
+    font-size: 20px;
+}
+.text3{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 30%;
+    color: white;
+}
+#cercle1{
+    position: absolute;
+    text-transform: (-50%);
+    left: 06%;
+    top: 39%;
+    font-size: 10px;
+    color: white;
+}
+.text4{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 41%;
+    color: white;
+}
+#cercle2{
+    position: absolute;
+    text-transform: (-50%);
+    font-size: 10px;
+    top: 50%;
+    color: white;
+    left: 06%;
+}
+.text5{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 51%;
+    color: white;
+}
+
+#cercle3{
+    position: absolute;
+    text-transform: (-50%);
+    font-size: 10px;
+    top: 60%;
+    color: white;
+    left: 06%;
+}
+.bouton_1 {
+    background-color: #F19200;
+    width: 150px;
+    position: absolute;
+    text-transform: (-50%);
+    top: 75%;
+    left: 40%;
+     border-radius: 10px;
+    height: 40px;
+   border: 1px solid white;
+   color: white;
+
+}
+.bouton_1:hover {
+    background-color: black;
+    color: white;
+}
+.bouton2 {
+    background-color: #F19200;
+    width: 150px;
+    position: absolute;
+    text-transform: (-50%);
+    top: 75%;
+    left: 40%;
+     border-radius: 10px;
+    height: 40px;
+   border: 1px solid white;
+   color: white;
+
+}
+.bouton2:hover {
+    background-color: black;
+    color: white;
+}
+.bouton3 {
+    background-color: #F19200;
+    width: 150px;
+    position: absolute;
+    text-transform: (-50%);
+    top: 75%;
+    left: 40%;
+     border-radius: 10px;
+    height: 40px;
+   border: 1px solid white;
+   color: white;
+
+}
+.bouton3:hover {
+    background-color: black;
+    color: white;
+}
+.bouton4 {
+    background-color: #F19200;
+    width: 150px;
+    position: absolute;
+    text-transform: (-50%);
+    top: 75%;
+    left: 40%;
+     border-radius: 10px;
+    height: 40px;
+   border: 1px solid white;
+   color: white;
+
+}
+.bouton4:hover {
+    background-color: black;
+    color: white;
+}
+.atelier1{
+    position: absolute;
+    text-transform: (-50%);
+    left: 05%;
+    top: 95%;
+    width: 900px;
+    height: 200px;
+    padding: 10px;
+    background-color: black;
+}
+.titre4{
+    position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    color: white;
+    
+   
+}
+#lamp{
+    position: absolute;
+    text-transform: (-50%);
+    left: 05%;
+    top: 16%;
+    color: yellow;
+    font-size: 20px;
+}
+
+.text3{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 30%;
+    color: white;
+}
+#cercle4{
+    position: absolute;
+    text-transform: (-50%);
+    left: 06%;
+    top: 39%;
+    font-size: 10px;
+    color: white;
+}
+.text4{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 41%;
+    color: white;
+}
+#cercle5{
+    position: absolute;
+    text-transform: (-50%);
+    font-size: 10px;
+    top: 50%;
+    color: white;
+    left: 06%;
+}
+.text5{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 51%;
+    color: white;
+}
+
+#cercle6{
+    position: absolute;
+    text-transform: (-50%);
+    font-size: 10px;
+    top: 60%;
+    color: white;
+    left: 06%;
+}
+.bouton1{
+    border: 1px solid gainsboro;
+    width: 150px;
+    height: 20px;
+    background-color: #F19200;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    position: absolute;
+    text-transform: (-50%);
+    top: 75%;
+    left: 40%;
+
+}
+.atelier2{
+    position: absolute;
+    text-transform: (-50%);
+    left: 05%;
+    top: 135%;
+    width: 900px;
+    height: 200px;
+    padding: 10px;
+    background-color: black;
+}
+.titre4{
+    position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    color: white;
+    
+   
+}
+#microphone{
+    position: absolute;
+    text-transform: (-50%);
+    left: 05%;
+    top: 16%;
+    color: white;
+    font-size: 20px;
+}
+
+.text3{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 30%;
+    color: white;
+}
+#cercle7{
+    position: absolute;
+    text-transform: (-50%);
+    left: 06%;
+    top: 39%;
+    font-size: 10px;
+    color: white;
+}
+.text4{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 41%;
+    color: white;
+}
+#cercle8{
+    position: absolute;
+    text-transform: (-50%);
+    font-size: 10px;
+    top: 50%;
+    color: white;
+    left: 06%;
+}
+.text5{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 51%;
+    color: white;
+}
+
+#cercle9{
+    position: absolute;
+    text-transform: (-50%);
+    font-size: 10px;
+    top: 60%;
+    color: white;
+    left: 06%;
+}
+.bouton1{
+    border: 1px solid gainsboro;
+    width: 150px;
+    height: 20px;
+    background-color: #F19200;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    position: absolute;
+    text-transform: (-50%);
+    top: 75%;
+    left: 40%;
+
+}
+
+
+
+.atelier3{
+    position: absolute;
+    text-transform: (-50%);
+    left: 05%;
+    top: 175%;
+    width: 900px;
+    height: 200px;
+    padding: 10px;
+    background-color: black;
+}
+.titre4{
+    position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    color: white;
+    
+   
+}
+#code{
+    position: absolute;
+    text-transform: (-50%);
+    left: 05%;
+    top: 16%;
+    color: white;
+    font-size: 20px;
+}
+
+.text3{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 30%;
+    color: white;
+}
+#cercle7{
+    position: absolute;
+    text-transform: (-50%);
+    left: 06%;
+    top: 39%;
+    font-size: 10px;
+    color: white;
+}
+.text4{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 41%;
+    color: white;
+}
+#cercle8{
+    position: absolute;
+    text-transform: (-50%);
+    font-size: 10px;
+    top: 50%;
+    color: white;
+    left: 06%;
+}
+.text5{
+     position: absolute;
+    text-transform: (-50%);
+    left: 09%;
+    top: 51%;
+    color: white;
+}
+
+#cercle9{
+    position: absolute;
+    text-transform: (-50%);
+    font-size: 10px;
+    top: 60%;
+    color: white;
+    left: 06%;
+}
+.bouton1{
+    border: 1px solid gainsboro;
+    width: 150px;
+     height: 20px;
+    background-color: #F19200;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    position: absolute;
+    text-transform: (-50%);
+    top: 75%;
+    left: 40%;
+
+}
+
+
+
+#cahier{
+  position: absolute;
+    text-transform: (-50%);
+    top: 235%;
+    left: 05%;
+    font-size: 20px;
+    
+   
+}
+.titre5{
+     position: absolute;
+    text-transform: (-50%);
+    top: 231%;
+    left: 08%;
+    
+}
+.text6{
+    position: absolute;
+    text-transform: (-50%);
+    top: 242%;
+    left: 08%;
+    font-size: 30px;
+     
+}
+
+footer{
+    background-color: black;
+    width: 1322px;
+    height: 320px;
+     position: absolute;
+    text-transform: (-50%);
+    top: 320%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.Navigation, .Contact, .information{
+    color: white;
+    width: 300px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.information{
+    gap: 03px;
+}
+
+.nav, .contact, .text8{
+    color: white;
+    font-size: 20px;
+}
+.icone_fleche, .icone1, .inf{
+    display: flex;
+     flex-direction: column;
+    gap: 25px;   
+}
+#i1, #i2, #i3, #i4, #i5, #i6,#i7, #i8, #tel, #mail, #localisation, #compte, #time  {
+    color: #F19200;
+    font-size: 25px;
+    gap: 10px; 
+}
+#facebook{
+    color: blue;
+     font-size: 25px;
+}
+#instagram{
+    color: red;
+     font-size: 25px;
+}
+#linkedlin{
+    color: rgb(153, 153, 236);
+     font-size: 25px;
+}
+
+.bouton5 {
+    border: 1px solid white;
+    padding: 10px;
+    background-color: #F19200;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+}
+.bouton5:hover {
+    background-color: black;
+    color: white;
+}
+.reseau{
+    display: flex;
+    gap: 20px;
+}
+.pied_de_page{
+    background-color: #F19200;
+    width: 1340px;
+    height: 50px;
+      position: absolute;
+    text-transform: (-50%);
+    top: 375%;
+    
+
+}
