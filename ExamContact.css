@@ -30,6 +30,7 @@ a{
 #icone1{
     color: #F19200;
 }
+
 .titre1{
     position: absolute;
     text-transform: (-50%);
@@ -87,6 +88,7 @@ a{
     border-radius: 5px;
     
 }
+
 .Sujet{
      position: absolute;
     text-transform: (-50%);
