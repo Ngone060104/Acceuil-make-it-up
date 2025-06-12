@@ -207,6 +207,9 @@ a{
     border-radius: 10px;  
     text-align: center;
 }
+.bt1, .bt2, .bt3{
+    color: white;
+}
 .bouton1:hover {
     background-color: black;
     color: white;

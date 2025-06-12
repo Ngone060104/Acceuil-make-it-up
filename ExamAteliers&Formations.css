@@ -146,6 +146,9 @@ a{
    color: white;
 
 }
+.bt1, .bt2, .bt3, .bt4, .bt5{
+    color: white;
+}
 .bouton_1:hover {
     background-color: black;
     color: white;

@@ -215,6 +215,9 @@ footer{
     align-items: center;
    
 }
+.bt2{
+    color: white;
+}
 .bouton2:hover {
     background-color: black;
     color: white;

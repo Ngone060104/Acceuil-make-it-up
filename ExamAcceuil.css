@@ -57,6 +57,9 @@ a{
    top: 90%;
    left: 05%;
 }
+.bt1, .bt2, .bt3, .bt4, .bt5, .bt6, .bt7, .bt8{
+    color: white;
+}
 .bouton1:hover {
     background-color: black;
     color: white;

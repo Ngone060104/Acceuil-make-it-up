@@ -236,6 +236,9 @@ footer{
     align-items: center;
    
 }
+.bt1{
+    color: white;
+}
 .bouton1:hover {
     background-color: black;
     color: white;
